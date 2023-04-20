@@ -9,4 +9,4 @@ CLIP (Contrastive Language-Image Pre-Training) is a state-of-the-art deep learni
 ##### INSTALLATION
 ```#@title Install
 !pip install transformers
-!pip install git+https://github.com/openai/CLIP.git```
+!pip install git+https://github.com/openai/CLIP.git
